@@ -1,10 +1,10 @@
 # Appium 1.6.4 with App Experience:
 
 ## Prerequisites:
-a. Appium 1.6.4
-b. App Experience
-c. App Experience account
-d. Appium 1.6.4 Inspector
+*a. Appium 1.6.4
+*b. App Experience
+*c. App Experience account
+*d. Appium 1.6.4 Inspector
 
 ### Steps to start Appium Inspector and find Elements:
 
