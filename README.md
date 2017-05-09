@@ -1,9 +1,11 @@
 # Appium 1.6.4 with App Experience:
 
-# Basic steps to start Appium server:
+## Basic steps to start Appium server:
 
 1)	Install the Appium installer on your Windows/Mac system. Start Appium client will show following launch screen.
+
 ![Image1](https://github.com/sigosmobiletesting/Documents/blob/master/Appium1.jpg)
+
 2)	Open the new session window by File => New Session Window…
 
 
