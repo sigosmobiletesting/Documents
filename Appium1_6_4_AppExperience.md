@@ -1,6 +1,12 @@
 # Appium 1.6.4 with App Experience:
 
-## Basic steps to start Appium server:
+## Prerequisites:
+a. Appium 1.6.4
+b. App Experience
+c. App Experience account
+d. Appium 1.6.4 Inspector
+
+### Steps to start Appium Inspector and find Elements:
 
 1)	Install the Appium installer on your Windows/Mac system. Start Appium client will show following launch screen.
 
