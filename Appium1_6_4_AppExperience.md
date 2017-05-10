@@ -2,8 +2,8 @@
 
 ## Prerequisites:
 1. Appium 1.6.4
-2. App Experience
-3. App Experience account
+2. App Experience Studio 8.6 or later
+3. App Experience account - [Get a new account now](http://www.keynote.com/solutions/testing/microsoft-visual-studio-team-foundation-server-integration)
 4. Appium 1.6.4 Inspector
 
 ### Steps to start Appium Inspector and find Elements:
