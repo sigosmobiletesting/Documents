@@ -5,6 +5,7 @@
 2. App Experience Studio 8.6 or later
 3. App Experience account - [Get a new account now](http://www.keynote.com/solutions/testing/microsoft-visual-studio-team-foundation-server-integration)
 4. Appium 1.6.4 Inspector
+5. Node.js (version 6.10.x)
 
 ### Steps to start Appium Inspector and find Elements:
 
