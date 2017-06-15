@@ -1,4 +1,4 @@
-# Appium 1.6.4 with App Experience:
+# Appium 1.6.4 Inspector with App Experience:
 
 ## Prerequisites:
 1. Appium 1.6.4
