@@ -50,7 +50,7 @@
 ![Image](https://github.com/sigosmobiletesting/Documents/blob/master/Images/Appium9.jpg)
 
 
-7)	With the help of Inspector, script can be created by using the suggested XPath or accessibility Id etc. For the above two screens, we have used following capabilities in our test script suggested but the Inspector, though XPath is not recommended but it is working:
+7)	With the help of Inspector, script can be created by using the suggested XPath or accessibility Id etc. For the above two screens, we have used following capabilities in our test script suggested by the Inspector:
 
 driver.findElement(By.xpath("//*[1]//*[2]//*[1]//*[1]//*[1]//*[1]//*[1]//*[1]//*[3]//*[2]")).click();
 driver.findElement(MobileBy.AccessibilityId("UI Interface")).click();
